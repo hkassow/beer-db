@@ -38,7 +38,7 @@
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
+      "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
       "likes": 0
     },
@@ -47,6 +47,35 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    }
+  ],
+  "users": [
+    { 
+      "id": 1,
+      "name": "Hunter",
+      "password":"scoobydoo",
+      "spent":10000,
+      "order":1,
+      "orderHistory": [{
+        "oderNumber1":{
+          "cost":10000,
+          "date":"MAR 29TH 2020",
+          "beers":["beer1", "beer2"]}
+      }]
+    },
+    {
+      "id": 2,
+      "name": "James",
+      "password":"scoobydoo",
+      "spent":50000,
+      "orders":1,
+      "orderHistory": [{
+        "orderNumber1":{
+          "cost":50000,
+          "date":"JAN 1ST 2020",
+          "beers":["beer1", "beer2"]
+          }
+      }]
     }
   ]
 }
