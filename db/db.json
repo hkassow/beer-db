@@ -55,7 +55,7 @@
       "name": "Hunter",
       "password":"scoobydoo",
       "spent":10000,
-      "order":1,
+      "orders":1,
       "orderHistory": [{
         "oderNumber1":{
           "cost":10000,
