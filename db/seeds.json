@@ -1,72 +1,75 @@
-[
-  {
-    "id": 1,
-    "tabName": "hunter tab",
-    "spent": 40000,
-    "orders": 3,
-    "orderHistory": [
-      {
-        "oderNumber1": {
-          "cost": 10000,
-          "date": "MAR 29TH 2020",
-          "beers": [
-            "beer1",
-            "beer2"
-          ]
-        },
-        "oderNumber2": {
-          "cost": 10000,
-          "date": "MAR 24TH 2020",
-          "beers": [
-            "beer1",
-            "beer2"
-          ]
-        },
-        "oderNumber3": {
-          "cost": 20000,
-          "date": "MAR 27TH 2020",
-          "beers": [
-            "beer1",
-            "beer2"
-          ]
+{
+  "openTabs": [
+    {
+      "id": 1,
+      "tabName": "hunter tab",
+      "spent": 40000,
+      "orders": 3,
+      "orderHistory": [
+        {
+          "oderNumber1": {
+            "cost": 10000,
+            "date": "MAR 29TH 2020",
+            "beers": [
+              "beer1",
+              "beer2"
+            ]
+          },
+          "oderNumber2": {
+            "cost": 10000,
+            "date": "MAR 24TH 2020",
+            "beers": [
+              "beer1",
+              "beer2"
+            ]
+          },
+          "oderNumber3": {
+            "cost": 20000,
+            "date": "MAR 27TH 2020",
+            "beers": [
+              "beer1",
+              "beer2"
+            ]
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "tabName": "james tab",
-    "spent": 50000,
-    "orders": 1,
-    "orderHistory": [
-      {
-        "orderNumber1": {
-          "cost": 50000,
-          "date": "JAN 1ST 2020",
-          "beers": [
-            "beer1",
-            "beer2"
-          ]
+      ]
+    },
+    {
+      "id": 2,
+      "tabName": "james tab",
+      "spent": 50000,
+      "orders": 1,
+      "orderHistory": [
+        {
+          "orderNumber1": {
+            "cost": 50000,
+            "date": "JAN 1ST 2020",
+            "beers": [
+              "beer1",
+              "beer2"
+            ]
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "tabName": "daniel tab",
-    "spent": 40000,
-    "orders": 1,
-    "orderHistory": [
-      {
-        "orderNumber1": {
-          "cost": 40000,
-          "date": "JAN 2ND 2020",
-          "beers": [
-            "beer1",
-            "beer2"
-          ]
+      ]
+    },
+    {
+      "id": 3,
+      "tabName": "daniel tab",
+      "spent": 40000,
+      "orders": 1,
+      "orderHistory": [
+        {
+          "orderNumber1": {
+            "cost": 40000,
+            "date": "JAN 2ND 2020",
+            "beers": [
+              "beer1",
+              "beer2"
+            ]
+          }
         }
-      }
-    ]
+      ]
+    }
+  ], 
+  "closedTabs":[]
   }
-]

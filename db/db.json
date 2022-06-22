@@ -1,4 +1,5 @@
-[
+{
+"openTabs": [
   {
     "id": 1,
     "tabName": "hunter tab",
@@ -69,4 +70,6 @@
       }
     ]
   }
-]
+], 
+"closedTabs":[]
+}
