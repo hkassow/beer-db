@@ -2,8 +2,7 @@
  "users": [
     { 
       "id": 1,
-      "name": "Hunter",
-      "password":"scoobydoo",
+      "tabName": "hunter tab",
       "spent":40000,
       "orders":3,
       "orderHistory": [{
@@ -23,8 +22,7 @@
     },
     {
       "id": 2,
-      "name": "James",
-      "password":"scoobydoo",
+      "tabName": "james tab",
       "spent":50000,
       "orders":1,
       "orderHistory": [{
@@ -34,6 +32,19 @@
           "beers":["beer1", "beer2"]
           }
       }]
-    }
+    },
+    {
+    "id": 3,
+    "tabName": "daniel tab",
+    "spent":40000,
+    "orders":1,
+    "orderHistory": [{
+      "orderNumber1":{
+        "cost":40000,
+        "date":"JAN 2ND 2020",
+        "beers":["beer1", "beer2"]
+        }
+    }]
+  }
   ]
 }
