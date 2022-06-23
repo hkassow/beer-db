@@ -3,8 +3,6 @@
     {
       "id": 1,
       "tabName": "hunter tab",
-      "spent": 40000,
-      "orders": 3,
       "beersOrdered": [
 
       ]
@@ -12,8 +10,6 @@
     {
       "id": 2,
       "tabName": "james tab",
-      "spent": 50000,
-      "orders": 1,
       "beersOrdered": [
         
       ]
@@ -21,8 +17,6 @@
     {
       "id": 3,
       "tabName": "daniel tab",
-      "spent": 40000,
-      "orders": 1,
       "beersOrdered": [
         
       ]
